@@ -29,3 +29,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/renad-hassan-dataz/)
 - [Twitter/X](https://x.com/RinDataz)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RinDataz&show_icons=true)
