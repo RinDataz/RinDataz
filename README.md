@@ -22,7 +22,8 @@
 
 ## Certifications
 [View my Google Data Analytics Certificate](https://coursera.org/share/3c8c7619decfbb6975e228d841e1c7e7)
-[View my Google Data Analytics Certificate](https://coursera.org/share/3c8c7619decfbb6975e228d841e1c7e7)  
+
+[View my IBM AI Devoloper Certificate](https://coursera.org/share/3c8c7619decfbb6975e228d841e1c7e7)  
 
 ## Connect with Me
 
