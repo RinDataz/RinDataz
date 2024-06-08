@@ -1,6 +1,4 @@
-# Hi there, I'm [Rinad Hassan] 👋
-
-![Profile views](https://gpvc.arturio.dev/RinDataz) 
+# Hi there, I'm Rinad Hassan👋
 
 ## About Me
 
