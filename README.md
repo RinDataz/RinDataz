@@ -2,10 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Machine Learning and Data Engineering
-- 👯 I’m looking to collaborate on ML and Data Science projects
-- 💬 Ask me about Data!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/renad-hassan-dataz/)
+I am a Data Science student at the University of Jeddah, currently focusing on Machine Learning and Data Engineering.
 
 ## My Skills
 
