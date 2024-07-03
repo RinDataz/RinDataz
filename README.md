@@ -24,10 +24,10 @@ I am a Data Science student at the University of Jeddah, currently focusing on M
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Projects
-
-- [**Safe Health**](https://github.com/RinDataz/SafeHealth-app): Documentation for my software engineering project.
 - [**Google Data Analytics Capstone - Cyclistic Case Study**](https://github.com/RinDataz/Google-Data-Analytics-Capstone-Cyclistic-Case-Study): An in-depth analysis of bike-sharing data to develop marketing strategies.
-
+- [**STC Virtual work experince**](https://github.com/RinDataz/STC-Virtual-Work-Experience)
+- [**IBM AI Engineer**](https://github.com/RinDataz/IBM-AI-Engineer-)
+- [**Safe Health**](https://github.com/RinDataz/SafeHealth-app): Documentation for my software engineering project.
 ## Certifications
 
 - [Google Data Analytics Certificate](https://coursera.org/share/3c8c7619decfbb6975e228d841e1c7e7)
