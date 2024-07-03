@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Data Science student at the University of Jeddah, currently focusing on Machine Learning and Data Engineering.
+I am a Data Science student at the University of Jeddah, currently focusing on Machine Learning and Data Engineering, interested in FinTech
 
 ## My Skills
 
