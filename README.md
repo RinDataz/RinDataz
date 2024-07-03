@@ -8,7 +8,6 @@ I am a Data Science student at the University of Jeddah, currently focusing on M
 ## My Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask
 - **Databases:** Oracle, NoSQL
 - **Data Visualization:** Tableau, Power BI
 - **Tools:** Git, VS Code, Jupyter Notebook, BigQuery, SQL
@@ -17,7 +16,6 @@ I am a Data Science student at the University of Jeddah, currently focusing on M
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
