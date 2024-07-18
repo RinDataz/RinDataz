@@ -38,11 +38,11 @@ I am a Data Science student at the University of Jeddah, currently focusing on M
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinDataz&show_icons=true&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RinDataz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinDataz&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RinDataz&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RinDataz&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RinDataz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
