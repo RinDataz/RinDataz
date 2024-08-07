@@ -37,10 +37,6 @@ I am a Data Science student at the University of Jeddah, currently focusing on M
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RinDataz)
 
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinDataz&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RinDataz&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RinDataz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
