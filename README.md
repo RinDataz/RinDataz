@@ -22,6 +22,7 @@ I am a Data Science student at the University of Jeddah, currently focusing on M
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Projects
+- [**ASL Translation System**](https://github.com/RinDataz/ASL_Translation_System/blob/main/README.md)
 - [**Google Data Analytics Capstone - Cyclistic Case Study**](https://github.com/RinDataz/Google-Data-Analytics-Capstone-Cyclistic-Case-Study): An in-depth analysis of bike-sharing data to develop marketing strategies.
 - [**STC Virtual work experince**](https://github.com/RinDataz/STC-Virtual-Work-Experience)
 - [**IBM AI Engineer**](https://github.com/RinDataz/IBM-AI-Engineer-)
