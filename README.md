@@ -1,4 +1,4 @@
-# Hi there, I'm Rinad Hassan👋 
+# Hi there, I'm Rinad Almjishai👋 
 
 
 ## About Me
