@@ -45,3 +45,7 @@ I'm a **Data Science student at the University of Jeddah**, specializing in **Fi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rindataz.github.io/portfolio/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RinDataz)  
 
+## Awards 
+- **Top 10 Teams Nation wide- AthkaU**
+- **3rd Place Fintech track - ByeoundXUj Hackathon**
+
