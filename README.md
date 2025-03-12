@@ -3,6 +3,10 @@
 ## 🚀 About Me  
 I'm a **Data Science student at the University of Jeddah**, specializing in **FinTech and Banking**. My focus areas include **Machine Learning, Data Engineering, and AI**. Passionate about leveraging data-driven solutions to drive innovation in financial technologies.  
 
+## Awards 
+- **Top 10 Teams Nation wide- AthkaU**
+- **3rd Place Fintech track - ByeoundXUj Hackathon**
+
 ## 🔧 Skills  
 - **Programming:** Python, R, SQL, Bash/Shell Scripting  
 - **AI & ML:** Neural Networks, TensorFlow, PyTorch, NLP  
@@ -45,7 +49,4 @@ I'm a **Data Science student at the University of Jeddah**, specializing in **Fi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rindataz.github.io/portfolio/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RinDataz)  
 
-## Awards 
-- **Top 10 Teams Nation wide- AthkaU**
-- **3rd Place Fintech track - ByeoundXUj Hackathon**
 
