@@ -1,7 +1,7 @@
 # Hi there, I'm Rinad Almjishai 👋  
 
 ## 🚀 About Me  
-I'm a **Data Science student at the University of Jeddah**, specializing in **FinTech and Banking**. My focus areas include **Machine Learning, Data Engineering, and AI**. Passionate about leveraging data-driven solutions to drive innovation in financial technologies.  
+I'm a **Data Scientist**, specializing in **FinTech and Banking**. My focus areas include **Machine Learning, Data Engineering, and AI**. Passionate about leveraging data-driven solutions to drive innovation in financial technologies.  
 
 ## Awards 
 - **Top 10 Teams Nation wide- AthkaU**
