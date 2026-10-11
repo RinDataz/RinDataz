@@ -8,8 +8,6 @@ rinad = {
     "currently":  "product analyst on a GCC gov super-app",
     "degree":     "B.Sc. Data Science, First Honors (minor in FinTech)",
     "into":       ["machine learning", "LLMs & GenAI", "fintech", "AI strategy"],
-    "side_quest": "founded Dulani: 29 mentors, 125 students, 184+ hrs of guidance",
-    "speaks":     ["Arabic", "English", "Python", "SQL"],
 }
 ```
 
