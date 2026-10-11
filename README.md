@@ -7,7 +7,7 @@ rinad = {
     "based_in":   "Jeddah, KSA 🇸🇦",
     "currently":  "product analyst on a GCC gov super-app",
     "degree":     "B.Sc. Data Science, First Honors (minor in FinTech)",
-    "into":       ["machine learning", "LLMs & GenAI", "fintech", "AI strategy"],
+    "into":       ["machine learning", "LLMs & GenAI", "fintech", "AI strategy"]
 }
 ```
 
