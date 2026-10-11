@@ -3,7 +3,7 @@
 Data scientist from jeddah. i like the messy middle where **data meets culture meets product**, and i'm usually the one translating between the three.
 
 ```python
-rinad = {
+ = {
     "based_in":   "Jeddah, KSA 🇸🇦",
     "currently":  "product analyst on a GCC gov super-app",
     "degree":     "B.Sc. Data Science, First Honors (minor in FinTech)",
